@@ -1,0 +1,15 @@
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\net6.0\TaskParallelLibrary.exe
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\net6.0\TaskParallelLibrary.deps.json
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\net6.0\TaskParallelLibrary.runtimeconfig.json
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\net6.0\TaskParallelLibrary.dll
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\net6.0\TaskParallelLibrary.pdb
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\TaskParallelLibrary.csproj.AssemblyReference.cache
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\TaskParallelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\TaskParallelLibrary.AssemblyInfoInputs.cache
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\TaskParallelLibrary.AssemblyInfo.cs
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\TaskParallelLibrary.csproj.CoreCompileInputs.cache
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\TaskParallelLibrary.dll
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\refint\TaskParallelLibrary.dll
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\TaskParallelLibrary.pdb
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\TaskParallelLibrary.genruntimeconfig.cache
+D:\WORK\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\net6.0\ref\TaskParallelLibrary.dll
