@@ -10,10 +10,10 @@ namespace TaskParallelLibrary
     {
         public void MyTask ()
         {
-            int timesRepeat = 10;
+            const int timesRepeat = 10;
             int threadId = Thread.CurrentThread.ManagedThreadId;
             Console.WriteLine($"\nMyTask : Is runnin on {threadId} thread !");
-            for (int i = 0; i < timesRepeat; ++i)
+            for (int i = 0; i < timesRepeat; i++)
             {
                 Thread.Sleep(200);
                 Console.Write("+ ");
